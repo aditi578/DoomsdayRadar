@@ -51,3 +51,9 @@ The application features custom low-level mathematical canvas rendering, asynchr
 1. Clone the repository:
    ```bash
    git clone [https://github.com/aditi578/DoomsdayRadar.git](https://github.com/aditi578/DoomsdayRadar.git)
+
+   
+
+https://github.com/user-attachments/assets/2d3987fc-b7ce-4829-9da1-c6b7a8bcf075
+
+
